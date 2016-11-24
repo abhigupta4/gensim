@@ -129,5 +129,6 @@ class IndexedCorpus(interfaces.CorpusABC):
             raise ValueError('Unrecognised value for docno, use either a single integer, a slice or a numpy.ndarray')
 
 
-
+    def test():
+        print "something"
 # endclass IndexedCorpus
